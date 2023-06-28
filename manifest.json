@@ -1,0 +1,28 @@
+{
+  "background_color": "#ffffff",
+  "description": "1만시간의 법칙은 전문가가 되기 위해 며칠이 걸리는지 계산해주는 서비스입니다.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "1만시간의 법칙",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "시간의 법칙",
+  "start_url": "https://warizi.github.io/pwaTest/",
+  "theme_color": "#ffffff",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "img/favicon.ico"
+    }
+  ],
+  "shortcuts": [],
+  "lang": "ko",
+  "display_override": [
+    "standalone",
+    "fullscreen",
+    "browser",
+    "minimal-ui",
+    "window-controls-overlay"
+  ]
+}
